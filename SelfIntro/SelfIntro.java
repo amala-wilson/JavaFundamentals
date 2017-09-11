@@ -1,4 +1,4 @@
-/* Basic Java Program that prints specific user info */
+/* Basic Java Program that prints specific user information */
 public class SelfIntro {
     public static void main(String[] args){
         System.out.println("My name is Jane Doe");
